@@ -7,7 +7,7 @@ This repo contains MD parsers for Python and PHP
 
 - The PHP parser can handle **relative image paths** so you can relocate your .md files and related image file to any location on your website without breaking image references.
 - supports **text colors** (foreground, background)
-- The PHP parses uses Bootstrap 5 tables  
+- The PHP parser uses Bootstrap 5 tables  
 
 ## To Do
 - Table: text align [left,center, right] to be implemented
