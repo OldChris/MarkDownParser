@@ -120,8 +120,11 @@ here is a link [dws website](https://dws.pa7rhm.nl) to the DWS website
   this is $$:black:red:black text:$$ on a red background
   this is $$:red:red:--------------:$$  red bar
 
+Here is the result : 
+
+![markdown color](images/markdown_color.png)
 
 
 
 
-More to follow soon.
+## More to follow soon.
