@@ -13,7 +13,7 @@ This repo contains MD parsers for Python and PHP
 - Table: text align [left,center, right] to be implemented
 
 
-## Current supported feautures
+## Current supported feutures
 
 The following tags are supported:
 
